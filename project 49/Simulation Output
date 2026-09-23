@@ -1,0 +1,13 @@
+
+
+
+```text
+Time=0  | Destination=  0 | Packet=00 | Output Port=00 | Routed Data=00 | Valid=0
+Time=20 | Destination= 20 | Packet=A1 | Output Port=00 | Routed Data=A1 | Valid=1
+Time=30 | Destination= 20 | Packet=A1 | Output Port=00 | Routed Data=A1 | Valid=0
+Time=40 | Destination= 80 | Packet=B2 | Output Port=01 | Routed Data=B2 | Valid=1
+Time=50 | Destination= 80 | Packet=B2 | Output Port=01 | Routed Data=B2 | Valid=0
+Time=60 | Destination=150 | Packet=C3 | Output Port=10 | Routed Data=C3 | Valid=1
+Time=70 | Destination=150 | Packet=C3 | Output Port=10 | Routed Data=C3 | Valid=0
+Time=80 | Destination=220 | Packet=D4 | Output Port=11 | Routed Data=D4 | Valid=1
+Time=90 | Destination=220 | Packet=D4 | Output Port=11 | Routed Data=D4 | Valid=0
